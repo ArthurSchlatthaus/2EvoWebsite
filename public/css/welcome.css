@@ -1,0 +1,40 @@
+html, body {
+    width: 100%;
+    height: 100vh;
+}
+body {
+    background-color: #121010;
+    font-family: emoji;
+    background-image: url("images/background/top-background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    width: 30%;
+    margin-left: 15%;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+}
+.item-1{
+    margin-top: 25%;
+}
+
+a:link {
+    text-decoration: none;
+  }

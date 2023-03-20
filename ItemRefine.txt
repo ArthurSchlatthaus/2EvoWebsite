@@ -1,0 +1,12 @@
+CREATE VIEW ItemRefine AS
+    SELECT 
+        item_proto.*,refine_proto.*
+    FROM
+        item_proto
+	JOIN
+		refine_proto
+	ON
+		refine_proto.id=item_proto.refine_set
+	WHERE
+		refine_proto.vnum0 > 0
+	ORDER BY item_proto.vnum

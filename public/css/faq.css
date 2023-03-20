@@ -1,0 +1,23 @@
+#accordionFlushExample{
+    width: 80%;
+    margin:0 auto;
+    text-align: center;
+    color: #b7934c;
+}
+.accordion-button{
+    color: #b7934c;
+    display: block;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed){
+    color: black;
+    background-color: #b7934c;
+    border: none;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.accordion-button:focus{
+    border: none;
+}

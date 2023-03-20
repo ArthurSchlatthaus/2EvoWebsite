@@ -1,0 +1,12 @@
+#char-slider { margin:auto; width: 960px; height: 340px;}
+.slick-slide { width: 320px; height: 370px; -webkit-transform: scale(0.85); -moz-transform: scale(0.85); transform: scale(0.85); }
+.slick-current { -webkit-transform: none; -moz-transform: none; transform: none; }
+.pic {width: 101px; height: 99px; background-image: url("images/chars/icon_mninja2.png"); display: inline-block; }
+
+.slider-card .inside { border: solid 2px #a18d73; border-radius: 10px; display: block; width: 230px; height: 100%; margin: auto; background-image: url("images/chars/background.jpg"); min-height: 320px; }
+.slider-card .header { background-image: url("images/chars/header_background.jpg"); height: 130px; position: relative; width: 200px; margin: 0 auto; top: -10px; color: #b7692e; font-weight: bold; }
+.slider-card .header .name { background-color: #000000c4; padding: 0 10px 0 10px; position: absolute; top: 0px; width: 100%; }
+.slider-card .header .level { padding: 0 10px 0 10px; position: absolute; top: 0px; width: 100%; text-align: right; }
+.slider-card .header img { width: 100px; margin: 20px auto; padding-top: 25px; }
+.slider-card .content { color: #a18d73; width: 200px; margin: 0 auto; }
+.slider-card .footer {  width: 200px; margin: 0 auto; vertical-align: middle;text-align: center;}

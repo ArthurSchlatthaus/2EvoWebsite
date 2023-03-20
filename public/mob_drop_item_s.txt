@@ -1,0 +1,2399 @@
+Group	Metin_des_Kummers
+{
+	Mob	8001
+	Type	drop
+	1	71151	1	50	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--PlatzhalterYang
+}
+Group	Metin_des_Kampfs
+{
+	Mob	8002
+	Type	drop
+	1	71151	2	60	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+}
+Group	Metin_der_Schlacht
+{
+	Mob	8003
+	Type	drop
+	1	71151	2	70	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+}
+Group	Metin_der_Gier
+{
+	Mob	8004
+	Type	drop
+	1	71151	2	80	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+}
+Group	Metin_der_Schw�rze
+{
+	Mob	8005
+	Type	drop
+	1	71151	2	120	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	60	--Segensschriftrolle
+	8	27987	1	60	--Muschel
+	9	71001	1	30	--Exorzismus-Schriftrolle
+}
+Group	Metin_der_Dunkelheit
+{
+	Mob	8006
+	Type	drop
+	1	71151	5	220	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	80	--Segensschriftrolle
+	8	27987	1	80	--Muschel
+	9	71001	1	40	--Exorzismus-Schriftrolle
+}
+Group	Metin_der_Eifersucht
+{
+	Mob	8007
+	Type	drop
+	1	71151	8	240	--Gr�ner_Zauber
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	90	--Segensschriftrolle
+	8	27987	1	90	--Muschel
+	9	71001	2	50	--Exorzismus-Schriftrolle
+}
+Group	Metin_der_Seele
+{
+	Mob	8008
+	Type	drop
+	1	71084	10	260	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	110	--Segensschriftrolle
+	8	27987	2	110	--Muschel
+	9	71094	1	90	--Konzentrierteslesen
+	10	50513	1	15	--Seelenstein
+	11	70102	1	90	--Zen--Bohne
+	12	71001	2	60	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Schattens
+{
+	Mob	8009
+	Type	drop
+	1	71084	4	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	1	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	1	100	--Zen--Bohne
+	12	71001	2	80	--Exorzismus-Schriftrolle
+}
+Group	Metin_der_H�rte
+{
+	Mob	8010
+	Type	drop
+	1	71084	4	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	1	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	1	100	--Zen--Bohne
+	12	71001	2	100	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Teufel
+{
+	Mob	8011
+	Type	drop
+	1	71084	6	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	1	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	1	100	--Zen--Bohne
+	12	71001	2	120	--Exorzismus-Schriftrolle
+}
+Group	Metin_deS_Sturzes
+{
+	Mob	8012
+	Type	drop
+	1	71084	4	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	1	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	1	100	--Zen--Bohne
+	12	71001	2	140	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Todes
+{
+	Mob	8013
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	160	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Mordes
+{
+	Mob	8014
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	180	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_H�rte
+{
+	Mob	8015
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	200	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Teufels
+{
+	Mob	8016
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	220	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Sturzes
+{
+	Mob	8017
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	240	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Todes
+{
+	Mob	8018
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	260	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Mordes
+{
+	Mob	8019
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	280	--Exorzismus-Schriftrolle
+}
+Group	Metin_des_Pung-Ma
+{
+	Mob	8024
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	300	--Exorzismus-Schriftrolle
+	13	71015	1	300	--Erfahrungsring-30m-
+	14	71016	1	300	--Handschuhe des Diebes
+}
+Group	Metin_des_Ma-An
+{
+	Mob	8025
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	320	--Exorzismus-Schriftrolle
+	13	71015	1	300	--Erfahrungsring-30m-
+	14	71016	1	300	--Handschuhe des Diebes
+}
+Group	Metin_des_Tu-Young
+{
+	Mob	8026
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	340	--Exorzismus-Schriftrolle
+	13	71015	1	300	--Erfahrungsring-30m-
+	14	71016	1	300	--Handschuhe des Diebes
+}
+Group	Metin_des_Jeon-Un
+{
+	Mob	8027
+	Type	drop
+	1	71084	10	280	--Gegenstand_Verzaubern
+	2	50325	1	0	--PlatzhalterKriegerKiste
+	3	50326	1	0	--PlatzhalterNinjaKiste
+	4	50327	1	0	--PlatzhalterSuraKiste
+	5	50328	1	0	--PlatzhalterSchamieKiste
+	6	1	1	0		--Yang
+	7	25040	2	120	--Segensschriftrolle
+	8	27987	2	150	--Muschel
+	9	71094	3	100	--Konzentrierteslesen
+	10	50513	1	20	--Seelenstein
+	11	70102	2	100	--Zen--Bohne
+	12	71001	3	360	--Exorzismus-Schriftrolle
+	13	71015	2	300	--Erfahrungsring-30m-
+	14	71016	2	300	--Handschuhe des Diebes
+}
+Group	Wildhund
+{
+	Mob	101
+	Type	drop
+	1	30027	1	10 --Wolfsfell
+}
+Group	Wolf
+{
+	Mob	102
+	Type	drop
+	1	30027	1	10 --Wolfsfell
+}
+Group	Alpha-Wolf
+{
+	Mob	103
+	Type	drop
+	1	30027	1	10 	--Wolfsfell
+}
+Group	Blauwolf
+{
+	Mob	104
+	Type	drop
+	1	30027	1	10 --Wolfsfell
+}
+Group	AlphaBlauwolf
+{
+	Mob	105
+	Type	drop
+	1	30027	2	10 --Wolfsfell
+}
+Group	AlphaBlauwolf
+{
+	Mob	106
+	Type	drop
+	1	30027	2	10 --Wolfsfell
+}
+Group	AlphaGrauwolf
+{
+	Mob	107
+	Type	drop
+	1	30027	2	10	--Wolfsfell
+	2	71151	10	5	--Gr�ner_Zauber
+}
+Group	HungrigerWildhund
+{
+	Mob	171
+	Type	drop
+	1	30027	1	15 --Wolfsfell
+}
+Group	HungrigerWolf
+{
+	Mob	172
+	Type	drop
+	1	30027	1	15 --Wolfsfell
+}
+Group	HungrigerAplhaWolf
+{
+	Mob	173
+	Type	drop
+	1	30027	2	15 --Wolfsfell
+}
+Group	HungrigerBlauwolf
+{
+	Mob	174
+	Type	drop
+	1	30027	1	15 --Wolfsfell
+}
+Group	HungrigerAlphaBlauwolf
+{
+	Mob	175
+	Type	drop
+	1	30027	2	15 --Wolfsfell
+}
+Group	HungrigerGrauwolf
+{
+	Mob	176
+	Type	drop
+	1	30027	1	15 --Wolfsfell
+}
+Group	HungrigerAlphaGrauwolf
+{
+	Mob	177
+	Type	drop
+	1	30027	2	15 --Wolfsfell
+	2	71151	10	5	--Gr�ner_Zauber
+}
+Group	Keiler
+{
+	Mob	108
+	Type	drop
+	1	30003	1	10 --Schweinenase
+}
+Group	RoterKeiler
+{
+	Mob	109
+	Type	drop
+	1	30003	2	10 --Schweinenase
+}
+Group	HungrigerKeiler
+{
+	Mob	178
+	Type	drop
+	1	30003	1	15 --Schweinenase
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	HungrigerRoterKeiler
+{
+	Mob	179
+	Type	drop
+	1	30003	2	15 --Schweinenase
+}
+Group	Baer
+{
+	Mob	110
+	Type	drop
+	1	30010	1	10 --B�rengalle
+}
+Group	Grizzlybaer
+{
+	Mob	111
+	Type	drop
+	1	30010	1	10 --B�rengalle
+}
+Group	Schwarzbaer
+{
+	Mob	112
+	Type	drop
+	1	30010	2	10 --B�rengalle
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	Braunbaer
+{
+	Mob	113
+	Type	drop
+	1	30010	2	10 --B�rengalle
+}
+Group	HungrigerBaer
+{
+	Mob	180
+	Type	drop
+	1	30010	1	15 --B�rengalle
+}
+Group	HungrigerGrizzlybaer
+{
+	Mob	181
+	Type	drop
+	1	30010	1	15 --B�rengalle
+}
+Group	HungrigerSchwarzbaer
+{
+	Mob	182
+	Type	drop
+	1	30010	2	15 --B�rengalle
+}
+Group	HungrigerBraunbaer
+{
+	Mob	183
+	Type	drop
+	1	30010	2	15 --B�rengalle
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	Tiger
+{
+	Mob	114
+	Type	drop
+	1	30038	1	10 --Tigerfell
+}
+Group	WeisserTiger
+{
+	Mob	115
+	Type	drop
+	1	30038	2	10 --Tigerfell
+}
+Group	HungrigerTiger
+{
+	Mob	184
+	Type	drop
+	1	30038	1	15 --Tigerfell
+}
+Group	HungrigerweisserTiger
+{
+	Mob	185
+	Type	drop
+	1	30038	2	15 --Tigerfell
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	FeigerWEidSoldat
+{
+	Mob	351
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	FeigerWEidSchuetze
+{
+	Mob	352
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	FeigerWEidGeneral
+{
+	Mob	353
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	FeigerWEidKommandant
+{
+	Mob	354
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	MutloseEunJung
+{
+	Mob	396
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	MutloseJinHee
+{
+	Mob	398
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	MutloseMiJung
+{
+	Mob	395
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	MutloseSeRang
+{
+	Mob	397
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	WeisserEidSoldatin
+{
+	Mob	301
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	WeisserEidBogenschuetzin
+{
+	Mob	302
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	WeisserEidGenerelin
+{
+	Mob	303
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	WeisserEidKommandantin
+{
+	Mob	304
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	WeisserEidSoldatin2
+{
+	Mob	331
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	WeisserEidBogenschuetzin2
+{
+	Mob	332
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+}
+Group	WeisserEidGenerelin2
+{
+	Mob	333
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+}
+Group	WeisserEidKommandantin2
+{
+	Mob	334
+	Type	drop
+	1	30034	1	10 --Wei�es Haarband
+	2	71151	10	1	--Gr�ner_Zauber
+}
+Group	Cung-Mok
+{
+	Mob	151
+	Type	drop
+	1	30027	2	10 	--Wolfsfell
+	2	71151	25	10	--Gr�ner_Zauber
+}
+Group	Mu-Rang
+{
+	Mob	152
+	Type	drop
+	1	30034	2	10 	--Wei�es Haarband
+	2	71151	25	10	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Jug-Hyul
+{
+	Mob	153
+	Type	drop
+	1	30003	2	10 	--Schweinenase
+	2	71151	25	10	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Young-Ji
+{
+	Mob	154
+	Type	drop
+	1	30010	2	10 	--B�rengalle
+	2	71151	25	10	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Li-An
+{
+	Mob	155
+	Type	drop
+	1	30038	2	10 	--Tigerfell
+	2	71151	25	10	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Lykos
+{
+	Mob	191
+	Type	drop
+	1	5000	1	15	--Kupferglocke
+	2	5010	1	15	--Silberglocke
+	3	5020	1	15	--Goldglocke
+	4	7010	1	15	--Eisenf�cher
+	5	7020	1	15	--Schwarztigerf�cher
+	6	7030	1	15	--Kranichfl�gelf�cher
+	7	7040	1	15	--Pfauenf�cher
+	8	11810	1	15	--T�rkiskleidung
+	9	11820	1	15	--Rosafarbene_Kleidung
+}
+Group	Scrofa
+{
+	Mob	192
+	Type	drop
+	1	   20	1	15	--Langschwert
+	2	   30	1	15	--Sichelschwert
+	3	   40	1	15	--Bambusschwer
+	4	   50	1	15	--Breitschwert
+	5	11610	1	15	--Sturm_Plattenpanzer
+	6	11620	1	15	--Ungl�cksplattenpanzer
+}
+Group	Bera
+{
+	Mob	193
+	Type	drop
+	1	2010	1	15	--Langbogen
+	2	2020	1	15	--Kompositbogen
+	3	2030	1	15	--Kriegsbogen
+	4	2040	1	15	--Reiterlangbogen
+	5	4000	1	15	--Amija
+	6	1010	1	15	--Kobradolch
+	7	4010	1	15	--Neunklingen
+	8	1020	1	15	--Scherendolch
+	9	11410	1	15	--Elfenbeinanzug
+	10	11420	1	15	--Scharlachroter_Anzug
+}
+Group	Tigris
+{
+	Mob	194
+	Type	drop
+	1	3010	1	15	--Speer
+	2	3020	1	15	--Enthauptungsklinge
+	3	3030	1	15	--Spinnenspeer
+	4	3040	1	15	--Guisarme
+	5	11210	1	15	--Eisenplattenpanzer
+	6	11220	1	15	--Tiger-Plattenpanzer
+}
+Group	Mi-Jung
+{
+	Mob	155
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+	2	71151	25	5	--Gr�ner_Zauber
+}
+Group	Eun-Jung
+{
+	Mob	155
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+	2	71151	25	5	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Se-Rang
+{
+	Mob	155
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+	2	71151	25	5	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Jin-Hee
+{
+	Mob	155
+	Type	drop
+	1	30034	2	10 --Wei�es Haarband
+	2	71151	25	5	--Gr�ner_Zauber
+	3	30265	5	1	--Medaillenst�ck (1)
+}
+Group	Schwarzwindsoldat
+{
+	Mob	401
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzwindbogensch�tze
+{
+	Mob	403
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzwind-Jak-To
+{
+	Mob	404
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzwind-To-Su
+{
+	Mob	405
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzwind_Gu_Ryung
+{
+	Mob	406
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Sturmsoldat
+{
+	Mob	431
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Sturmbesessene
+{
+	Mob	432
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Bogensch�tze
+{
+	Mob	433
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Sturm-Joh-Hwan
+{
+	Mob	434
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Sturm-Kyuk-Jan
+{
+	Mob	435
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Schwarzer_Sturm-Pho-Hwan
+{
+	Mob	436
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	B�ser_Schw._Sturmsoldat
+{
+	Mob	451
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	B�ser_Sturmbesessener
+{
+	Mob	452
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	B�ser_Sturmbogensch�tze
+{
+	Mob	453
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	B�ser_Sturm-Joh-Hwan
+{
+	Mob	454
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group   B�ser_Sturm-Kyuk-Jang
+{
+	Mob	455
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	B�ser_Sturm-Pho-Hwan
+{
+	Mob	456
+	Type	drop
+	1	30032	1	10 --Schwarze Uniform
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Wilder_Infanterist
+{
+	Mob	501
+	Type	drop
+	1	30041	1	10 --Shuriken
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Wilder_Ergebener
+{
+	Mob	502
+	Type	drop
+	1	30041	1	10 --Shuriken
+	2	30021	1	10 --St�ck Edelstein
+}
+Group	Wilder_Bogensch�tze
+{
+	Mob	503
+	Type	drop
+	1	 290	1	1	--Vollmondschwert
+	2	2150	1	1	--Hornbogen
+	3	30041	1	10 --Shuriken
+	4	30021	1	10 --St�ck Edelstein
+}
+Group	Wilder_General
+{
+	Mob	504
+	Type	drop
+	1	 290	1	4	--Vollmondschwert
+	2	2150	1	4	--Hornbogen
+	3	30041	1	10 --Shuriken
+	4	30021	1	10 --St�ck Edelstein
+}
+Group	Mahon
+{
+	Mob	491
+	Type	drop
+	1	11240	1	150	--T�dl. Plattenpanzer
+	2	11440	1	150	--Ameisenl�wenanzug
+	3	11640	1	150	--YinYang-Plattenpanzer
+	4	11840	1	150	--Kleidung des Himmels
+	5	14100	1	150	--Ebenholzarmband
+	6	17100	1	150	--Ebenholzohrringe
+}
+Group	Bo
+{
+	Mob	492
+	Type	drop
+	1	60	1	150	--Silberschwert
+	2	2050	1	150	--Reiterkriegsbogen
+	3	3050	1	150	--Kriegssense
+	4	4020	1	150	--Kurzes Messer
+	5	7050	1	150	--Aquatischer F�cher
+	6	5030	1	150	--Jadeglocke
+	7	15080	1	150	--Lederstiefel
+	8	27987	1	20	--Muschel
+	9	17100	1	150	--Ebenholzohrringe
+}
+Group	Goo_Pae
+{
+	Mob	493
+	Type	drop
+	1	70	1	150	--Orchideenschwert
+	2	1030	1	150	--Gl�cksmesser
+	3	2060	1	150	--Kupferverziert. Bogen
+	4	3060	1	150	--Kampfheugabel
+	5	5030	1	150	--Jadeglocke
+	6	7060	1	150	--Steinf�cher
+	7	14100	1	150	--Ebenholzarmband
+	8	27987	1	20	--Muschel
+	9	17100	1	150	--Ebenholzohrringe
+}
+Group	Chuong
+{
+	Mob	494
+	Type	drop
+	1	11230	1	150	--L�wenplattenpanzer
+	2	11430	1	150	--Roter Ameisenanzug
+	3	11630	1	150	--Geistplattenpanzer
+	4	11830	1	150	--Kleidung der Liebe
+	5	15080	1	150	--Lederstiefel
+	6	16060	1	150	--Goldhalskette
+	7	27987	1	20	--Muschel
+	8	17100	1	150	--Ebenholzohrringe
+}
+Group	Brutaler_Soldat
+{
+	Mob	531
+	Type	drop
+	1	  290	1	70	--Vollmondschwert
+	2	30032	1	5 --Schwarze Uniform
+	3	30021	1	10 --St�ck Edelstein
+	4	30041	1	10 --Shuriken
+}
+Group	Brutaler_Besessener
+{
+	Mob	532
+	Type	drop
+	1	  290	1	70	--Vollmondschwert
+	2	30032	1	10 --Schwarze Uniform
+	3	30021	1	10 --St�ck Edelstein
+	4	30041	1	10 --Shuriken
+}
+Group	Brutaler_Bogensch�tze
+{
+	Mob	533
+	Type	drop
+	1	2150	1	70	--Hornbogen
+	2	1170	1	70	--Schwarzblattdolch
+	3	30032	1	10 --Schwarze Uniform
+	4	30021	1	10 --St�ck Edelstein
+	5	30041	1	10 --Shuriken
+	6	27987	1	2	--Muschel
+}
+Group	BrutalerHauptmann
+{
+	Mob	591
+	Type	drop
+	1	 290	1	150	--Vollmondschwert
+	2	5110	1	150	--Antike_Glocke
+	3	27987	1	20	--Muschel
+	4	25040	1	20	--Segensschriftrolle
+	5	71084	2	80	--Gegenstand_Verzaubern
+}
+Group	BrutalerSpezialist
+{
+	Mob	534
+	Type	drop
+	1	3210	1	45	--Roteisenklinge
+	2	7160	1	25	--Herbstwindf�cher
+	3	27987	1	20	--Muschel
+}
+Group	Ork
+{
+	Mob	601
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Ork_Sp�her
+{
+	Mob	602
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Ork_K�mpfer
+{
+	Mob	603
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Ork_Zauberer
+{
+	Mob	604
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Stolzer_Ork
+{
+	Mob	631
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Stolzer_Ork_Sp�her
+{
+	Mob	632
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Stolzer_Ork_K�mpfer
+{
+	Mob	633
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Stolzer_Ork_Zauberer
+{
+	Mob	634
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Stolzer_Ork_General
+{
+	Mob	635
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Schwarzer_Ork
+{
+	Mob	636
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Schwarzer_Ork_Riese
+{
+	Mob	637
+	Type	drop
+	1	30077	1	10	--Orkzahn+
+	2	30007	1	10	--Orkamulett
+}
+Group	Mutiger_gr_Ork
+{
+	Mob	651
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_gr_Orksp�her
+{
+	Mob	652
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_gr_Orkk�mpfer
+{
+	Mob	653
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_gr_Orkzauberer
+{
+	Mob	654
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_gr_Orkgeneral
+{
+	Mob	655
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_schw_ork
+{
+	Mob	656
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Mutiger_schw_orkRiese
+{
+	Mob	657
+	Type	drop
+	1	1170	1	1	--Schwarzblattdolch
+	2	30077	1	10	--Orkzahn+
+	3	30007	1	10	--Orkamulett
+}
+Group	Oberork
+{
+	Mob	691
+	Type	drop
+	1	85000	1	50	--Feines_Tuch
+	2	50513	1	20	--Seelenstein
+	3	46000	1	10	--EvoSteinNormal
+	4	50070	1	999	--Oberork-Truhe
+	5	14160	1	100	--Kristallarmband
+	6	16140	1	100	--Wei�goldhalskette
+	7	15180	1	100	--Nimbus-Stiefel
+	8	27987	1	80	--Muschel
+}
+Group	Dunkler_Fanatiker
+{
+	Mob	701
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Dunkler_Arahan
+{
+	Mob	702
+	Type	drop
+	1	3210	1	6	--Roteisenklinge
+	2	1170	1	1	--Schwarzblattdolch
+	3	30008	1	10	--Esoterikfibel
+	4	30051	1	10	--Unbekannter Talisman
+}
+Group	Dunkler_K�mpfer
+{
+	Mob	703
+	Type	drop
+	1	3210	1	6	--Roteisenklinge
+	2	30008	1	10	--Esoterikfibel
+	3	30051	1	10	--Unbekannter Talisman
+}
+Group	Oberer_dunkler_Arahan
+{
+	Mob	704
+	Type	drop
+	1	3210	1	6	--Roteisenklinge
+	2	30008	1	10	--Esoterikfibel
+	3	30051	1	10	--Unbekannter Talisman
+}
+Group	Dunkler_Scharfrichter
+{
+	Mob	705
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Dunkler_Peiniger
+{
+	Mob	706
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Dunkler_Beschw�rer
+{
+	Mob	707
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_Fanatiker
+{
+	Mob	731
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_K�mpfer
+{
+	Mob	733
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_Oberst
+{
+	Mob	734
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_Peiniger
+{
+	Mob	736
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_Peiniger
+{
+	Mob	736
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Stolzer_dunkl_Zauberer
+{
+	Mob	737
+	Type	drop
+	1	30080	1	10	--Fluchsammlung+
+	2	30051	1	10	--Unbekannter Talisman
+}
+Group	Hoher_Fanatiker
+{
+	Mob	751
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Arahan
+{
+	Mob	752
+	Type	drop
+	1	3210	1	6	--Roteisenklinge
+	2	30008	1	20	--Esoterikfibel
+	3	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Arahan-K�mpfer
+{
+	Mob	753
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Ober-Arahan
+{
+	Mob	754
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Scharfrichter
+{
+	Mob	755
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Peiniger
+{
+	Mob	756
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Hoher_Beschw�rer
+{
+	Mob	757
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30080	1	10	--Fluchsammlung+
+}
+Group	Brutaler_Fanatiker
+{
+	Mob	771
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30040	1	20	--Blatt
+}
+Group	Brutaler_Arahan
+{
+	Mob	772
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30040	1	20	--Blatt
+}
+Group	Brutaler_Arahan-K�mpfer
+{
+	Mob	773
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30040	1	20	--Blatt
+}
+Group  	Brutaler_Ober-Arahan
+{
+	Mob	774
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30040	1	20	--Blatt
+	3	11251	1	4	--Drachen-Plattenpanzer
+}
+Group	Brutaler_Scharfrichter
+{
+	Mob	775
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30040	1	20	--Blatt
+}
+Group	Brutaler_Peiniger
+{
+	Mob	776
+	Type	drop
+	1	30008	1	10	--Esoterikfibel
+	2	30040	1	20	--Blatt
+	3	11851	1	4	--Sonnenkleidung
+}
+Group	Brutaler_Beschw�rer
+{
+	Mob	777
+	Type	drop
+	1	30008	1	20	--Esoterikfibel
+	2	30040	1	20	--Blatt
+	3	50513	1	1	--Seelenstein
+}
+Group	Baumfrosch-Soldat
+{
+	Mob	1301
+	Type	drop
+	1	30060	1	2	--Froschzunge
+	2	30061	1	2	--Froschschenkel
+}
+Group	Baumfrosch-Anf�hrer
+{
+	Mob	1302
+	Type	drop
+	1	30060	1	2	--Froschzunge
+	2	30061	1	2	--Froschschenkel
+	3	11451	1	4	--Ninjaanzug
+}
+Group	Buhmann
+{
+	Mob	1303
+	Type	drop
+	1	30060	1	2	--Froschzunge
+	2	30061	1	2	--Froschschenkel
+	3	11651	1	4	--Mystikerplattenpanzer
+}
+Group	Ochsenfrosch_General
+{
+	Mob	1305
+	Type	drop
+	1	30060	1	2	--Froschzunge
+	2	30061	1	2	--Froschschenkel
+	3	11251	1	4	--Drachen-Plattenpanzer
+}
+Group	Geister-Anf�hrer
+{
+	Mob	791
+	Type	drop
+	1	86	1	15	--Anderthalbh�nder
+	2	1046	1	15	--Katzenbissmesser
+	3	2076	1	15	--Zerst�rungsbogen
+	4	3076	1	15	--Hellebarde
+	5	5046	1	15	--Brunnenglocke
+	6	7076	1	15	--Ozeanf�cher
+	7	14166	1	15	--Kristallarmband
+	8	16146	1	15	--Wei�goldhalskette
+	9	15186	1	15	--Nimbus-Stiefel
+	10	50072	1	999	--Truhe Geist-Anf�hrer
+}
+Group	Dunkler_Geister-Anf�hrer
+{
+	Mob	792
+	Type	drop
+	1	96	1	15	--Barbarenschwert
+	2	1056	1	15	--Teufelsmaskendolch
+	3	2086	1	15	--Rotaugenbogen
+	4	3086	1	15	--Riesenaxt
+	5	5056	1	15	--Aprikosenglocke
+	6	7086	1	15	--Stichf�cher
+	7	14166	1	15	--Kristallarmband
+	8	16146	1	15	--Wei�goldhalskette
+	9	15186	1	15	--Nimbus-Stiefel
+	10	50071	1	999 --Truhe dunkler Anf�hrer
+}
+Group	Tigergeist
+{
+	Mob	1304
+	Type	drop
+	1	85000	1	65	--Feines_Tuch
+	2	50513	1	35	--Seelenstein
+	3	27987	10	25	--Muschel
+	4	71001	5	65	--Exorzismus-Schriftrolle
+	5	11266	1	80	--Schuppenplattenpanzer
+	6	11466	1	80	--Jungdrachenanzug
+	7	11666	1	80	--Nebelplattenpanzer
+	8	11866	1	80	--Kleidung der Moral
+	9	50078	1	999	--TigergeistTruhe
+}
+Group	Schwacher_Affensoldat
+{
+	Mob	5101
+	Type	drop
+	1	50722	1	2		--Glockenblume
+}
+Group	Schwacher_Affenk�mpfer
+{
+	Mob	5103
+	Type	drop
+}
+Group	Schwacher_Affengeneral
+{
+	Mob	5104
+	Type	drop
+	1	50721	1	1		--Pfirsichblute
+}
+Group	Affensoldat
+{
+	Mob	5111
+	Type	drop
+	1	50723	1	2		--Kakiblute
+}
+Group	Affenk�mpfer
+{
+	Mob	5113
+	Type	drop
+}
+Group	Affengeneral
+{
+	Mob	5114
+	Type	drop
+	1	50722	1	1		--Glockenblume
+}
+Group	Steinaffe
+{
+	Mob	5115
+	Type	drop
+	1	50725	1	1		--Flieder
+}
+Group	Affenanf�hrer
+{
+	Mob	5116
+	Type	drop
+	1	50726	1	1		--Tue-Pilz
+}
+Group	Starker_Affensoldat
+{
+	Mob	5121
+	Type	drop
+	1	50726	1	1		--Tue-Pilz
+}
+Group	Starker_Affenwerfer
+{
+	Mob	5122
+	Type	drop
+	1	50723	1	1		--Kakiblute
+}
+Group	Starker_Affenk�mpfer
+{
+	Mob	5123
+	Type	drop
+}
+Group	Starker_Affengeneral
+{
+	Mob	5124
+	Type	drop
+}
+Group	Starker_Steinaffe
+{
+	Mob	5125
+	Type	drop
+	1	50724	1	1		--Gango-Wurzel
+}
+Group	Starker_Goldaffe
+{
+	Mob	5126
+	Type	drop
+	1	50721	1	2		--Pfirsichblute
+}
+Group	Starker_Affenf�hrer
+{
+	Mob	5127
+	Type	drop
+	1	50722	1	2		--Glockenblume
+}
+Group	Felsenaffe
+{
+	Mob	5161
+	Type	drop
+	1	50513	1	15	--Seelenstein
+	2	297	1	50	--vms
+	3	3217	1	50	--rek
+	4	1177	1	50	--sdb
+	5	2157	1	50	--Hornbogen
+	6	7167	1	50	--hwf
+	7	5117	1	50	--Antike
+	8	71110	1	200	--Pferdezucker
+	9	50057	1	250	--KrautderleichtenAffen
+	10	11251	1	60	--Drachen-Plattenpanzer
+	11	11651	1	60	--Mystikerplattenpanzer
+	12	11451	1	60	--Ninjaanzug
+	13	11851	1	60	--Sonnenkleidung
+}
+Group	Gehender_Affe
+{
+	Mob	5162
+	Type	drop
+	1	50058	1	250	--Krautd.normalenAffen
+}
+Group	Affen_Lord
+{
+	Mob	5163
+	Type	drop
+	1	50513	1	5	--Seelenstein
+	2	50050	1	10	--Pferdemedallie
+	3	11257	1	60	--Drachen-Plattenpanzer
+	4	11657	1	60	--Mystikerplattenpanzer
+	5	11457	1	60	--Ninjaanzug
+	6	11857	1	60	--Sonnenkleidung
+	7	107	1	60	--Blutiges_Schwert
+	8	2097	1	60	--Dronblattbogen
+	9	3097	1	60	--Gletscherpicke
+	10	5067	1	60	--Magische_Glocke
+	11	7097	1	60	--Phoenixf�cher
+	12	1087	1	60	--Rippenmesser
+	13	5087	1	60	--Stahlkaeferglocke
+	14	1067	1	60	--Teufelsfaustdolch
+	15	50059	1	250	--Krautd.schwerenAffen
+}
+Group	Babyspinne
+{
+	Mob	2001
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	Giftspinne
+{
+	Mob	2002
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	Rote_Giftspinne
+{
+	Mob	2003
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	Klauenspinne
+{
+	Mob	2004
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	Soldatenspinne
+{
+	Mob	2005
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	B�se_Babygiftspinne
+{
+	Mob	2051
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	B�se_t�dl_Giftspinne
+{
+	Mob	2052
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	B�se_rote_Giftspinne
+{
+	Mob	2053
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+	2	27987	1	1	--Muschel
+}
+Group	B�se_Klauengiftspinne
+{
+	Mob	2054
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	B�se_Soldatengiftspinne
+{
+	Mob	2055
+	Type	drop
+	1	30056	1	1	--Spinnennetz
+}
+Group	W�stenflugauge
+{
+	Mob	2102
+	Type	drop
+	1	30138	1	15	--W�stensand
+}
+Group	K�nigsskorpion
+{
+	Mob	2103
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Junger_Skorpionmann
+{
+	Mob	2104
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Skorpionbogensch�tze
+{
+	Mob	2105
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Schlangenschwertk�mpfer
+{
+	Mob	2106
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	Schlangenbogensch�tze
+{
+	Mob	2107
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	W�stenbandit
+{
+	Mob	2108
+	Type	drop
+	1	30138	1	25	--W�stensand
+}
+Group	Brutaler_Skorpionmann
+{
+	Mob	2131
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Starker_K�nigsskorpion
+{
+	Mob	2153
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Starker_Skorpionmann
+{
+	Mob	2154
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Starker_Skorpionbogensch�tze
+{
+	Mob	2155
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Starker_Schlangenschwertk�mpfer
+{
+	Mob	2156
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	Starker_Schlangenbogensch�tze
+{
+	Mob	2157
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	Starker_W�stenbandit
+{
+	Mob	2158
+	Type	drop
+	1	30138	1	25	--W�stensand
+}
+Group	W�stenschildkr�te
+{
+	Mob	2191
+	Type	drop
+	1	154	1	55	--Geisterzahnklinge
+	2	144	1	55	--Schlachtschwert
+	3	1104	1	55	--Drachenmesser
+	4	2144	1	55	--Gro�gelbdrachenbogen
+	5	3134	1	55	--Partisane
+	6	5094	1	55	--Donnervogelglocke
+	7	7144	1	55	--Erl�sungsf�cher
+	8	50076	1	999	--Truhe W�stenschildkr�te
+	9	11270	1	55	--gold-pp
+	10	11470	1	55	--M�rderwindanzug
+	11	11670	1	55	--Geistermaskenpanzer
+	12	11870	1	55	--Oranges Katzenkleid
+}
+Group	Leichengeist
+{
+	Mob	901
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	Plagenhund
+{
+	Mob	902
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	Plagenschwertkampfer
+{
+	Mob	904
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	Plagenspeerkampfer
+{
+	Mob	905
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	Plagenbogenschutze
+{
+	Mob	906
+	Type	drop
+	1	30157	1	24		--Pfeilspitze
+}
+Group	Plagenanfuhrer
+{
+	Mob	907
+	Type	drop
+	1	30009	1	20		--Unbekannte Medizin
+}
+Group	W.Leichengeist
+{
+	Mob	931
+	Type	drop
+	1	30009	1	16		--Unbekannte Medizin
+}
+Group	W.Plagenhund
+{
+	Mob	932
+	Type	drop
+	1	30009	1	16		--Unbekannte Medizin
+}
+Group	W.Plagenmann
+{
+	Mob	933
+	Type	drop
+	1	30009	1	16		--Unbekannte Medizin
+}
+Group	W.Plagenk�mpfer
+{
+	Mob	934
+	Type	drop
+	1	30009	1	16		--Unbekannte Medizin
+}
+Group	W.Plagenspeerk�mpfer
+{
+	Mob	935
+	Type	drop
+	1	30009	1	16		--Unbekannte Medizin
+}
+Group	W.Plagenbogensch�tze
+{
+	Mob	936
+	Type	drop
+	1	30157	1	24		--Pfeilspitze
+}
+Group	ZornigerPlagenanf�hrer
+{
+	Mob	937
+	Type	drop
+	1	30009	1	30		--Unbekannte Medizin
+}
+Group	Plagenei
+{
+	Mob	991
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	Plagentr�ger
+{
+	Mob	992
+	Type	drop
+	1	30009	1	12		--Unbekannte Medizin
+}
+Group	RiesigerPlagentr�ger
+{
+	Mob	993
+	Type	drop
+	1	30009	1	20		--Unbekannte Medizin
+}
+Group	VerzaubertesEis
+{
+	Mob	1101
+	Type	drop
+	1	30090	1	12		--Eiskugel+
+}
+Group	Eiskillerwal
+{
+	Mob	1102
+	Type	drop
+	1	30048	1	12		--Eisst�ck
+}
+Group	Eisinsekt
+{
+	Mob	1103
+	Type	drop
+	1	30090	1	12		--Eiskugel+
+}
+Group	Eisl�we
+{
+	Mob	1104
+	Type	drop
+	1	30048	1	12		--Eisst�ck
+}
+Group	FrostigerEismann
+{
+	Mob	1105
+	Type	drop
+	1	30090	1	15		--Eiskugel+
+}
+Group	Yeti
+{
+	Mob	1106
+	Type	drop
+	1	30048	1	12		--Eisst�ck
+}
+Group	Eisgolem
+{
+	Mob	1107
+	Type	drop
+	1	30090	1	15		--Eiskugel+
+}
+Group	B�sesverzaubertesEis
+{
+	Mob	1171
+	Type	drop
+	1	30048	1	12		--Eisst�ck
+}
+Group	Neunschwanz
+{
+	Mob	1901
+	Type	drop
+	1	85000	2	50	--Feines_Tuch
+	2	50513	1	20	--Seelenstein
+	3	27987	10	15	--Muschel
+	4	71001	10	15	--Exorzismus-Schriftrolle
+	5	11266	1	25	--Schuppenplattenpanzer
+	6	11466	1	25	--Jungdrachenanzug
+	7	11666	1	25	--Nebelplattenpanzer
+	8	11866	1	25	--Kleidung der Moral
+	9	50077	1	999	--Neunschwanztruhe
+}
+Group	Damonenbogenschutze
+{
+	Mob	1002
+	Type	drop
+}
+Group	Damonenspeerkampfer
+{
+	Mob	1003
+	Type	drop
+}
+Group	Damonenschamane
+{
+	Mob	1004
+	Type	drop
+}
+Group	GemeinerBogenschutze
+{
+	Mob	1032
+	Type	drop
+}
+Group	GemeinerGeistSchutze
+{
+	Mob	1062
+	Type	drop
+}
+Group	GemeinerGeistKampfer
+{
+	Mob	1063
+	Type	drop
+}
+Group	GemeinerGeistKampfer
+{
+	Mob	1064
+	Type	drop
+}
+Group	GemeinerGeistdesGroll
+{
+	Mob	1065
+	Type	drop
+	1	50728	1	2		--Maulbeeren
+}
+Group	GemeinerGeistdesChaos
+{
+	Mob	1066
+	Type	drop
+	1	50724	1	2		--Gango-Wurzel
+}
+Group	GeistSchwertmeister
+{
+	Mob	1068
+	Type	drop
+	1	50721	1	4		--Pfirsichblute
+}
+Group	GemeinerFlug-Totenkopf
+{
+	Mob	1069
+	Type	drop
+	1	50725	1	2		--Flieder
+}
+Group	UnsterblicherGeist
+{
+	Mob	1070
+	Type	drop
+	1	50727	1	1		--Alpenrose
+}
+Group	DamonischesTier
+{
+	Mob	1071
+	Type	drop
+	1	50721	1	4		--Pfirsichblute
+}
+Group	Damonenkonig
+{
+	Mob	1091
+	Type	drop
+	1	50513	1	50		--Seelenstein
+	2	50302	1	500		--Wu-zi-Kriegskunst
+	3	50302	1	500		--Wu-zi-Kriegskunst
+	4	50302	1	75		--Wu-zi-Kriegskunst
+	5	50315	1	500		--Buchfort.Verwandlung
+	6	50315	1	75		--Buchfort.Verwandlung
+}
+Group	StolzerDamonenkonig
+{
+	Mob	1092
+	Type	drop
+	1	50081	1	999		--Damonenkonigtruhe
+}
+Group	Sensenmann
+{
+	Mob	1093
+	Type	drop
+	1	50082	1	999		--Sensenmanntruhe
+	2	30319	1	500		--Schrumpfkopf
+	3	50513	1	500		--Seelenstein
+	4	30193	2	500		--Fingerknochen
+	5	30193	1	90		--Fingerknochen
+	6	30193	1	75		--Fingerknochen
+	7	50513	1	3		--Seelenstein
+	8	27992	1	20		--Wei�ePerle
+	9	27993	1	20		--BlauePerle
+	10	27994	1	20		--BlutrotePerle
+	11	85001	1	20		--Herrscherband(einfach)
+}
+Group	Babygiftspinne
+{
+	Mob	2031
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	T�dlicheGiftspinne
+{
+	Mob	2032
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	Rotew�tendeGiftspinne
+{
+	Mob	2033
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	Klauengiftspinne
+{
+	Mob	2034
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	Soldatengiftspinne
+{
+	Mob	2035
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	StolzeSoldat-Giftspinne
+{
+	Mob	2036
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	K�niginnenspinne
+{
+	Mob	2091
+	Type	drop
+	1	50073	1	999		--Konigsspinnentruhe
+	2	50513	1	30		--Seelenstein
+	3	27992	1	20		--Wei�ePerle
+	4	27993	1	20		--BlauePerle
+	5	27994	1	20		--BlutrotePerle
+	6	85000	1	100		--FeinesTuch
+}
+Group	KleineGiftspinne
+{
+	Mob	2061
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	T�dlicheGiftspinneSD2
+{
+	Mob	2062
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	Rotet�dlicheGiftspinne
+{
+	Mob	2063
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	KlauengiftspinneSD2
+{
+	Mob	2064
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	SoldatengiftspinneSD2
+{
+	Mob	2065
+	Type	drop
+	1	30056	1	10		--Spinnennetz
+}
+Group	Skorpionbogensch�tzeSD2
+{
+	Mob	2132
+	Type	drop
+	1	30046	1	5	--Skorpionschwanz
+}
+Group	Schlangenschwertk�mpferSD2
+{
+	Mob	2133
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	Schlangenbogensch�tzeSD2
+{
+	Mob	2134
+	Type	drop
+	1	30022	1	20	--Schlangenschwanz
+}
+Group	W�stenbanditSD2
+{
+	Mob	2135
+	Type	drop
+	1	30138	1	25	--W�stensand
+}
+Group	DunklK�niginnenspinne
+{
+	Mob	2093
+	Type	drop
+	1	50074	1	999		--Riesenspinnentruhe
+	2	50513	1	30		--Seelenstein
+	3	27992	1	20		--Wei�ePerle
+	4	27993	1	20		--BlauePerle
+	5	27994	1	20		--BlutrotePerle
+	6	85000	1	100		--FeinesTuch
+}
+Group	Kampftigersklave
+{
+	Mob	2201
+	Type	drop
+	1	30019	1	10		--Flammenm�hne
+}
+Group	Flammengeist
+{
+	Mob	2202
+	Type	drop
+	1	30524	1	10		--Flammenstein
+}
+Group	Kampftiger
+{
+	Mob	2203
+	Type	drop
+	1	30524	1	5	--Flammenm�hne
+}
+Group	Flamme
+{
+	Mob	2204
+	Type	drop
+	1	30019	1	20	--Flammenstein
+}
+Group	Flammenkrieger
+{
+	Mob	2205
+	Type	drop
+	1	30524	1	20	--Flammenstein
+}
+Group	Flammenk�nig
+{
+	Mob	2206
+	Type	drop
+	1	50079	1	999		--Flammenk�nigtruhe
+	2	50513	1	30		--Seelenstein
+	3	27992	1	20		--Wei�ePerle
+	4	27993	1	20		--BlauePerle
+	5	27994	1	20		--BlutrotePerle
+	6	85000	1	100		--FeinesTuch
+}
+Group	Geisterbaum
+{
+	Mob	2301
+	Type	drop
+	1	30192	1	10		--Milchsaft
+}
+Group	Geisterbaumstumpf
+{
+	Mob	2302
+	Type	drop
+	1	30192	1	10		--Milchsaft
+}
+Group	Dryade
+{
+	Mob	2303
+	Type	drop
+	1	30197	1	5	--MagischeSamen
+}
+Group	Geisterweide
+{
+	Mob	2304
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50922	1	15	--ZelkovaHolzast+
+}
+Group	B�serBaum
+{
+	Mob	2305
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50922	1	15	--ZelkovaHolzast+
+}
+Group	RoterGeisterbaum
+{
+	Mob	2311
+	Type	drop
+	1	30192	1	10	--Milchsaft
+}
+Group	RoterGeisterbaumstumpf
+{
+	Mob	2312
+	Type	drop
+	1	30192	1	10	--Milchsaft
+}
+Group	RoterDryade
+{
+	Mob	2313
+	Type	drop
+	1	30197	1	5	--MagischeSamen
+}
+Group	RoterGeisterweide
+{
+	Mob	2314
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50923	1	15	--RoterGeisterbaum-Ast+
+}
+Group	RoterB�serBaum
+{
+	Mob	2315
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50923	1	15	--RoterGeisterbaum-Ast+
+}
+Group	RiesigerGeisterbaum
+{
+	Mob	2306
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50923	1	15	--RoterGeisterbaum-Ast+
+	3	50513	1	30		--Seelenstein
+	4	27992	1	20		--Wei�ePerle
+	5	27993	1	20		--BlauePerle
+	6	27994	1	20		--BlutrotePerle
+	7	85000	1	100		--FeinesTuch
+}
+Group	Geisterbaum-Lord
+{
+	Mob	2307
+	Type	drop
+	1	30197	1	20	--MagischeSamen
+	2	50923	1	15	--RoterGeisterbaum-Ast+
+	3	50513	1	30		--Seelenstein
+	4	27992	1	20		--Wei�ePerle
+	5	27993	1	20		--BlauePerle
+	6	27994	1	20		--BlutrotePerle
+	7	85000	1	100		--FeinesTuch
+}
+Group	Setaou-K�mpfer
+{
+	Mob	2401
+	Type	drop
+	1	30193	1	20	--Fingerknochen
+}
+Group	Setaou-J�ger
+{
+	Mob	2402
+	Type	drop
+	1	30193	1	20	--Fingerknochen
+}
+Group	Setaou-Seherin
+{
+	Mob	2403
+	Type	drop
+	1	30193	1	20	--Fingerknochen
+}
+Group	Setaou-Anf�hrer
+{
+	Mob	2404
+	Type	drop
+	1	30193	1	20	--Fingerknochen
+}
+Group	Unterwelt-Eissplitter
+{
+	Mob	1131
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Eiskillerwal
+{
+	Mob	1132
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Eisinsekt
+{
+	Mob	1133
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Eisl�we
+{
+	Mob	1134
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Eismann
+{
+	Mob	1135
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Yeti
+{
+	Mob	1136
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Unterwelt-Eisgolem
+{
+	Mob	1137
+	Type	drop
+	1	30196	1	20	--D�monenasche
+}
+Group	Eishexe
+{
+	Mob	1191
+	Type	drop
+	1	30193	1	20		--Fingerknochen
+	2	30196	1	20		--D�monenasche
+	3	50513	1	30		--Seelenstein
+	4	27992	1	20		--Wei�ePerle
+	5	27993	1	20		--BlauePerle
+	6	27994	1	20		--BlutrotePerle
+	7	85000	1	100		--FeinesTuch
+	8	50254	1	999		--Truhe der Dunkelheit
+}
+Group	Setaou-Soldat
+{
+	Mob	2411
+	Type	drop
+	1	30199	1	20	--Blauer Kristall
+}
+Group	Setaou-Bogensch�tze
+{
+	Mob	2412
+	Type	drop
+	1	30199	1	20	--Blauer Kristall
+}
+Group	Setaou-Magistra
+{
+	Mob	2413
+	Type	drop
+	1	30198	1	20	--Wasserkristall
+}
+Group	Setaou-Kommandant
+{
+	Mob	2414
+	Type	drop
+	1	30198	1	20	--Wasserkristall
+}
+Group	Setaou-Kommandant
+{
+	Mob	2415
+	Type	drop
+	1	30198	1	20	--Wasserkristall
+}
+Group	HauptmannYonghan
+{
+	Mob	2491
+	Type	drop
+	1	30179	1	200	--Gewundener Schl�ssel
+}
+Group	GeneralYonghan
+{
+	Mob	2491
+	Type	drop
+	1	30179	1	999	--Gewundener Schl�ssel
+}
+Group	HauptmannHuashin
+{
+	Mob	2494
+	Type	drop
+	1	30179	1	200	--Gewundener Schl�ssel
+}
+Group	GeneralHuashin
+{
+	Mob	2495
+	Type	drop
+	1	30179	1	999	--Gewundener Schl�ssel
+}
+Group	Gro�eEishexe
+{
+	Mob	1192
+	Type	drop
+	1	30199	1	20		--Blauer Kristall
+	2	30198	1	20		--Wasserkristall
+	3	50513	1	30		--Seelenstein
+	4	27992	1	20		--Wei�ePerle
+	5	27993	1	20		--BlauePerle
+	6	27994	1	20		--BlutrotePerle
+	7	85000	1	100		--FeinesTuch
+	8	50254	1	999		--Truhe der Dunkelheit
+}
+Group	Beran-Setaou
+{
+	Mob	2493
+	Type	drop
+	1	30199	1	20		--Blauer Kristall
+	2	30198	1	20		--Wasserkristall
+	3	50513	1	30		--Seelenstein
+	4	27992	1	20		--Wei�ePerle
+	5	27993	1	20		--BlauePerle
+	6	27994	1	20		--BlutrotePerle
+	7	85000	5	100		--FeinesTuch
+	8	50118	1	999		--Drachen-Schatztruhe
+}

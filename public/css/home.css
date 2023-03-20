@@ -1,0 +1,60 @@
+#ranking { background-image: url("images/ranking/background.png"); height: 520px; background-repeat: no-repeat; background-position: center; padding-top: 30px;}
+#ranking-header { background-image: url("images/ranking/ranking.png"); width: 340px; height: 69px; margin: 0 auto 30px auto; }
+#ranking-box { display: flex; flex-direction: row; justify-content: center; }
+@media only screen and (max-width: 800px) {
+    #ranking-box {
+        flex-direction: column;
+        width: 75%;
+     }
+     #ranking{
+        height: auto !important;
+     }
+}
+@media only screen and (max-width: 1200px) {
+    #stats-box{
+        display: none !important;
+    }
+    #stats-header {
+        display: none;
+    }
+    #ranking {
+        margin-top: 20%;
+    }
+}
+.Top10 .see-all { color: #8e342b; font-size: 18px; font-weight: bold; cursor: pointer; text-decoration: none; }
+.Top10 { text-align: center; color:#fff; min-width: 420px; display: block; }
+.Top10 .title	{ color:#b7692e; font-size: 22px; margin-bottom: 30px; }
+.Top10 .cell	{ display: table-cell; text-align: left;}
+.Top10 .row		{ display: table-row; font-size: 16px; }
+.Top10 .table	{ display: table; color: #fff;}
+.Top10:first-child { padding-right: 60px }
+.Top10 .see-all:hover { color: #ab443a }
+.Top10 .empire	{ text-align:center; }
+.Top10 .first3 {color:#b7934c; }
+.Top10 .headline { color:#6f6f6f; font-size: 14px; font-weight: bold; }
+
+.empire .flag		{ width: 28px; height: 17px; margin-left: auto; margin-right: auto; }
+.empire .flag_1	{ background-image: url("images/ranking/rotes-reich.png"); }
+.empire .flag_2	{ background-image: url("images/ranking/gelbes-reich.png"); }
+.empire .flag_3	{ background-image: url("images/ranking/blaues-reich.png"); }
+
+#stats-box { color: #fff; text-align: center; background-image: url("images/stats/stats_bg.png"); width: 1250px; height: 276px; margin: 0 auto 0 auto; display: flex; flex-direction: row; justify-content: center; }
+#stats-header { background-image: url("images/stats/stats.png"); width: 303px; height: 68px; margin: 0 auto 30px auto; }
+#stats-box #online .count { color:#b7934c; font-size: 50px; font-weight: bold;}
+#stats-box .item:last-child { margin-right: 0px; }
+#stats-box .item:first-child { margin-left: -55px; }
+#stats-box .item { margin: 70px 120px 0 0; }
+#stats-box .count { font-size: 30px; }
+#stats-box .title { font-size: 16px; }
+
+#discord{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home_container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20%;
+}

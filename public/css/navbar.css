@@ -1,0 +1,79 @@
+p {
+    text-align: center;
+}
+
+.navbar {
+    background-color: #00000091;
+    width: 100%;
+    height: 45px;
+    position: absolute;
+}
+
+.navbar-nav .dropdown:hover > ul {
+    display: inherit;
+}
+
+.navbar-nav .dropdown {
+    display: inline-block;
+}
+
+.navbar-nav .dropdown-menu {
+    background: none;
+    background-color: #00000091;
+    border-radius: 0 !important;
+}
+
+.navbar-nav .dropdown-item:hover {
+    background: none;
+}
+
+.nav-link {
+    display: block;
+    padding: 0 20px;
+    color: #FFF;
+    font-size: 20px;
+    line-height: 45px;
+    white-space: nowrap;
+}
+
+.nav-link:hover {
+    color: #b7934c;
+    text-decoration: none;
+}
+
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#navi_register:hover {
+    background-color: #a2000080;
+}
+
+#navi_login:hover {
+    background-color: #0c0c0cc2;
+}
+
+#navi_register {
+    background-color: #ff00002e;
+}
+
+#navi_login {
+    background-color: #0c0c0c60;
+}
+
+#navi_register a:hover {
+    color: #fff;
+}
+
+
+#navi_download:hover {
+    content: url("images/navbar/download-norm.png");
+}
+
+#navi_right .username {
+    text-transform: capitalize;
+    margin-left: 10px;
+}
+
+

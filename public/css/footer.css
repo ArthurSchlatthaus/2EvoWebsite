@@ -1,0 +1,17 @@
+
+    #footer {
+        background-color:  #a5722c;
+        bottom: 0;
+    }
+
+
+@media only screen and (min-width: 1900px) {
+    #footer {
+        background-color:  #a5722c;
+        bottom: auto;
+    }
+
+}
+img{
+    width: 100%;
+}
